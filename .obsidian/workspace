@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md",
+            "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/3. 검색 알고리즘.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "6d82d6e582d1647e",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md",
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/3. 검색 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md",
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/3. 검색 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md"
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/3. 검색 알고리즘.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "5375b698830d891a",
   "lastOpenFiles": [
-    "nomadcoders/pythonWebScraper/Python Theory.md",
+    "39.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/3. 검색 알고리즘.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/2. 기본 자료구조.md",
+    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md",
+    "nomadcoders/pythonWebScraper/Python Theory.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/1. 기본 알고리즘.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/2 장 파이썬 프로그램 기본 구조.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/1.5 기본 알고리즘과 자료구조.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/1 장 컴퓨팅 사고와 프로그래밍.md",
-    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md",
-    "Algorithm/자료구조와.md",
-    "Users/akor1/TIL/Algorithm/자료구조와.md",
-    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/images/Pasted image 20220816152618.png"
+    "Algorithm/자료구조와.md"
   ]
 }
