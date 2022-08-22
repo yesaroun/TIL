@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md",
+            "file": "Python/Python 기초/자료형.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md",
+                "file": "Python/Python 기초/자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md",
+                "file": "Python/Python 기초/자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md"
+                "file": "Python/Python 기초/자료형.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "68aeeb69fc601805",
   "lastOpenFiles": [
-    "Git/Do it! 깃&깃허브 입문/5 깃허브로 협업하기.md",
-    "Git/Do it! 깃&깃허브 입문/4 깃허브로 백업하기.md",
-    "Git/Do it! 깃&깃허브 입문/3 깃과 브랜치.md",
-    "Git/Do it! 깃&깃허브 입문/2 깃 버전 관리하기.md",
-    "Git/Do it! 깃&깃허브 입문/1-3 리눅스 명령 연습하기 .md",
-    "Git/Do it! 깃&깃허브 입문/1-3 리눅스 명령 연습하기.md",
-    "Algorithm/6-2 마크다운 문법.md",
+    "Python/Python 기초/입력.md",
+    "Python/Python 기초/숫자 야구.md",
+    "Python/Python 기초/사전.md",
+    "Python/Python 기초/모듈.md",
+    "Python/Python 기초/리스트.md",
+    "Python/Python 기초/자료형.md",
     "무제노트.md",
-    "README.md",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md"
+    "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md",
+    "Git/Do it! 깃&깃허브 입문/5 깃허브로 협업하기.md",
+    "Git/Do it! 깃&깃허브 입문/4 깃허브로 백업하기.md"
   ]
 }
