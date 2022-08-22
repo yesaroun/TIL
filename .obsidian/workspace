@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Python 기초/자료형.md",
+            "file": "Python/Python 기초/제어문.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python 기초/자료형.md",
+                "file": "Python/Python 기초/제어문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python 기초/자료형.md",
+                "file": "Python/Python 기초/제어문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python 기초/자료형.md"
+                "file": "Python/Python 기초/제어문.md"
               }
             }
           }
@@ -130,12 +130,12 @@
   },
   "active": "68aeeb69fc601805",
   "lastOpenFiles": [
-    "Python/Python 기초/입력.md",
-    "Python/Python 기초/숫자 야구.md",
-    "Python/Python 기초/사전.md",
     "Python/Python 기초/모듈.md",
     "Python/Python 기초/리스트.md",
     "Python/Python 기초/자료형.md",
+    "Python/Python 기초/입력.md",
+    "Python/Python 기초/숫자 야구.md",
+    "Python/Python 기초/사전.md",
     "무제노트.md",
     "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md",
     "Git/Do it! 깃&깃허브 입문/5 깃허브로 협업하기.md",
