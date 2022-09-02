@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "68aeeb69fc601805",
+        "id": "3cf38c5f3a085e2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Python 기초/제어문.md",
+            "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2bb4c407036f853b",
+    "id": "5c3a040d2f8c50dd",
     "type": "split",
     "children": [
       {
-        "id": "05701f4138683f7c",
+        "id": "6ed79b642aec656d",
         "type": "tabs",
         "children": [
           {
-            "id": "d017f54f7e0a2262",
+            "id": "eba6c3b84b1d2250",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "8fd9de63513a2d7c",
+            "id": "930556e5c5b8ba32",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "ee69b394082eff28",
+            "id": "d1a229ee1be5e2eb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,23 +61,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "018572a92ee3df21",
+    "id": "dde3bdb854e13990",
     "type": "split",
     "children": [
       {
-        "id": "0ad771c81a00997d",
+        "id": "d49f643f8cec20df",
         "type": "tabs",
         "children": [
           {
-            "id": "92b4b1e594d8bd3f",
+            "id": "cc490361f9e6f4a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python 기초/제어문.md",
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +90,19 @@
             }
           },
           {
-            "id": "5645c90cd39581f6",
+            "id": "f3f23986191d8f7f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python 기초/제어문.md",
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0187d66f324d6bde",
+            "id": "69bf34f8ee5d94f7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +113,12 @@
             }
           },
           {
-            "id": "c696519951439a32",
+            "id": "092b449212dee0b2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python 기초/제어문.md"
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md"
               }
             }
           }
@@ -128,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68aeeb69fc601805",
+  "active": "eba6c3b84b1d2250",
   "lastOpenFiles": [
-    "Python/Python 기초/모듈.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6장_정렬_알고리즘.pdf",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/2. 기본 자료구조.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/3. 검색 알고리즘.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf",
     "Python/Python 기초/리스트.md",
+    "Python/Python 기초/모듈.md",
     "Python/Python 기초/자료형.md",
     "Python/Python 기초/입력.md",
-    "Python/Python 기초/숫자 야구.md",
-    "Python/Python 기초/사전.md",
-    "무제노트.md",
-    "Git/Do it! 깃&깃허브 입문/6-2 마크다운 문법.md",
-    "Git/Do it! 깃&깃허브 입문/5 깃허브로 협업하기.md",
-    "Git/Do it! 깃&깃허브 입문/4 깃허브로 백업하기.md"
+    "Python/Python 기초/숫자 야구.md"
   ]
 }
