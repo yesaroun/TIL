@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dde3bdb854e13990",
@@ -129,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eba6c3b84b1d2250",
+  "active": "3cf38c5f3a085e2d",
   "lastOpenFiles": [
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/Pasted image 20220903032228.png",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6장_정렬_알고리즘.pdf",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/2. 기본 자료구조.md",
@@ -138,8 +139,6 @@
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf",
     "Python/Python 기초/리스트.md",
     "Python/Python 기초/모듈.md",
-    "Python/Python 기초/자료형.md",
-    "Python/Python 기초/입력.md",
-    "Python/Python 기초/숫자 야구.md"
+    "Python/Python 기초/자료형.md"
   ]
 }
