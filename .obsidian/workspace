@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md",
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/2. 하나의 문제 여러가지 알고리즘.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5c3a040d2f8c50dd",
+    "id": "7ad034384fdf8625",
     "type": "split",
     "children": [
       {
-        "id": "6ed79b642aec656d",
+        "id": "64393abbad9b9a11",
         "type": "tabs",
         "children": [
           {
-            "id": "eba6c3b84b1d2250",
+            "id": "7fd716c0f988e98a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "930556e5c5b8ba32",
+            "id": "715f834007153330",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "d1a229ee1be5e2eb",
+            "id": "6f94606afab33db2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "dde3bdb854e13990",
+    "id": "8545ea090e01e9f2",
     "type": "split",
     "children": [
       {
-        "id": "d49f643f8cec20df",
+        "id": "2f771895b1a47a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc490361f9e6f4a9",
+            "id": "8f7cd8d860d79b0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md",
+                "file": "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/2. 하나의 문제 여러가지 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,19 @@
             }
           },
           {
-            "id": "f3f23986191d8f7f",
+            "id": "e76be130fc297c59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md",
+                "file": "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/2. 하나의 문제 여러가지 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69bf34f8ee5d94f7",
+            "id": "cc81728322ac24c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "092b449212dee0b2",
+            "id": "cef38ed005959406",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md"
+                "file": "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/2. 하나의 문제 여러가지 알고리즘.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "3cf38c5f3a085e2d",
   "lastOpenFiles": [
-    "Python/인프런/images/Pasted image 20220904144833.png",
+    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md",
+    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/2 장 파이썬 프로그램 기본 구조.md",
+    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/1.5 기본 알고리즘과 자료구조.md",
+    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/1 장 컴퓨팅 사고와 프로그래밍.md",
     "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md",
+    "Python/인프런/images/Pasted image 20220904144833.png",
     "Python/Python 기초/python 데이터의 비밀.md",
     "Python/Python 기초/for 반복문.md",
     "Python/Python 기초/리스트 4f850e313b754d1f9b45ad6b8a9689e8/Untitled.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220903032228.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6장_정렬_알고리즘.pdf",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/2. 기본 자료구조.md"
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md"
   ]
 }
