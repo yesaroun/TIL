@@ -7,9 +7,11 @@
         "id": "3cf38c5f3a085e2d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png"
+            "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a56d6574afbfd61",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png"
+                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md"
               }
             }
           }
@@ -126,16 +129,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ec23a65d5ac2d23",
+  "active": "3cf38c5f3a085e2d",
   "lastOpenFiles": [
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101633.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101545.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101530.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/3. 알고리즘 평가법(수 정하기).md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/1. 기본 알고리즘.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md"
   ]
