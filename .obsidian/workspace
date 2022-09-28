@@ -7,9 +7,11 @@
         "id": "3cf38c5f3a085e2d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png"
+            "file": "Python/객체재향/객체지향기초/5. 객체 지향 프로그래밍 직접 해보기.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84eddf268d9421e4",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png",
+                "file": "Python/객체재향/객체지향기초/5. 객체 지향 프로그래밍 직접 해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png",
+                "file": "Python/객체재향/객체지향기초/5. 객체 지향 프로그래밍 직접 해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png"
+                "file": "Python/객체재향/객체지향기초/5. 객체 지향 프로그래밍 직접 해보기.md"
               }
             }
           }
@@ -126,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dbee86005f1f842",
+  "active": "3cf38c5f3a085e2d",
   "lastOpenFiles": [
+    "Python/객체재향/객체지향기초/4. 객체 만들기 연습.md",
+    "Python/객체재향/객체지향기초/3. 미리 알고 가야 할 것들.md",
     "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
+    "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png",
     "Python/객체재향/객체지향기초/1. 객체란.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/3. 알고리즘 평가법(수 정하기).md",
     "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/2. 하나의 문제 여러가지 알고리즘.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101633.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101545.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101530.png"
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png"
   ]
 }
