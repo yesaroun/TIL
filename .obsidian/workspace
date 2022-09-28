@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
+            "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "81747d7889536056",
+    "id": "f35f08ad66a44bf3",
     "type": "split",
     "children": [
       {
-        "id": "7f8da10edd7ea6f6",
+        "id": "56ebc962d858bad7",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec23a65d5ac2d23",
+            "id": "5dbee86005f1f842",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "2fce4fe3a5e4c51a",
+            "id": "3cf639ebe87263df",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "d6557e30d837da09",
+            "id": "a7519ea609bb1fba",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,20 +65,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "0a56d6574afbfd61",
+    "id": "84eddf268d9421e4",
     "type": "split",
     "children": [
       {
-        "id": "6626a0c4a6831ac9",
+        "id": "c0490aeb206799c3",
         "type": "tabs",
         "children": [
           {
-            "id": "bfa56a15b7d24944",
+            "id": "cfb9e659491405fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
+                "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +90,19 @@
             }
           },
           {
-            "id": "fe5d4cb1a3dcd429",
+            "id": "9c8e97f92c145d7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
+                "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d0aa7c0b28bb8fb3",
+            "id": "f0dbe738a051330e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "6e47ae7b5d3ea0e9",
+            "id": "60df7de6235d366e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md"
+                "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "3cf38c5f3a085e2d",
   "lastOpenFiles": [
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
+    "Python/객체재향/객체지향기초/1. 객체란.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/3. 알고리즘 평가법(수 정하기).md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/2. 하나의 문제 여러가지 알고리즘.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/5. 재귀 알고리즘.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101633.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101545.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101530.png",
-    "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/3. 알고리즘 평가법(수 정하기).md",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/1. 기본 알고리즘.md",
-    "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/3장 파이썬 식별자, 기본 자료형과 연산.md"
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf"
   ]
 }
