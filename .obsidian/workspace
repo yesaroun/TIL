@@ -7,11 +7,9 @@
         "id": "3cf38c5f3a085e2d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
-            "mode": "source",
-            "source": false
+            "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png"
           }
         }
       }
@@ -61,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84eddf268d9421e4",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
+                "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
+                "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md"
+                "file": "Python/객체재향/객체지향기초/image/Pasted image 20220928202508.png"
               }
             }
           }
@@ -129,8 +126,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cf38c5f3a085e2d",
+  "active": "5dbee86005f1f842",
   "lastOpenFiles": [
+    "Python/객체재향/객체지향기초/2. 객체를 만드는 법.md",
     "Python/객체재향/객체지향기초/1. 객체란.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/6. 정렬 알고리즘.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/1. 좋은 알고리즘이란/3. 알고리즘 평가법(수 정하기).md",
@@ -139,7 +137,6 @@
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101509.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101633.png",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101545.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101530.png",
-    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf"
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/images/Pasted image 20220919101530.png"
   ]
 }
