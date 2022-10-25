@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "de977f9c1e91a295",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d1b273472723427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74314e533914d382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bbd5f57ab28cf3e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f01b6ba03987ec14",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "061bcc3bc15fec5f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7e437af6bab497f3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "75c1c948edc49df5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f6aa5c1e720ddbbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a65fdab890a5438e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "969bd7295fe91720",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "810ae128998f104e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "74314e533914d382",
+  "lastOpenFiles": [
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/3 배열(편집중).md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/2 컴퓨터가 데이터를 저장하는 법.md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇2(재귀 함수)/1._재귀_함수.pdf",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇2(재귀 함수)/2 재귀 함수 연습.md",
+    "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf",
+    "Python/객체재향/객체지향기초/4. 객체 만들기 연습.md",
+    "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇1(좋은 알고리즘이란?)/3. 알고리즘 평가법(수 정하기).md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇1(좋은 알고리즘이란?)/2. 하나의 문제 여러가지 알고리즘.md"
+  ]
+}
