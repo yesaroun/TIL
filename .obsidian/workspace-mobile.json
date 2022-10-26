@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
-                "mode": "source",
+                "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트(편집중).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트(편집중).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트(편집중).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md"
+            "file": "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트(편집중).md"
           }
         }
       }
@@ -126,15 +126,15 @@
   },
   "active": "74314e533914d382",
   "lastOpenFiles": [
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/5 해시 테이블.md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/3 배열.md",
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트(편집중).md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/3 배열(편집중).md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/2 컴퓨터가 데이터를 저장하는 법.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇2(재귀 함수)/1._재귀_함수.pdf",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇2(재귀 함수)/2 재귀 함수 연습.md",
     "Algorithm/Do it! 자료구조와 함께 배우는 알고리즘 입문-자바/4. 스택과 큐.pdf",
-    "Python/객체재향/객체지향기초/4. 객체 만들기 연습.md",
-    "Python/인프런/10. 자료구조 (스택, 큐, 튜플, 세트).md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇1(좋은 알고리즘이란?)/3. 알고리즘 평가법(수 정하기).md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇1(좋은 알고리즘이란?)/2. 하나의 문제 여러가지 알고리즘.md"
+    "Python/객체재향/객체지향기초/4. 객체 만들기 연습.md"
   ]
 }
