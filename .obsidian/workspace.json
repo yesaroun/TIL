@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "236446d4514b7380",
+        "id": "edc89aaad9abec2c",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d70996ad198fca",
+            "id": "5bd3db48ab53d6b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4d70996ad198fca",
+  "active": "5bd3db48ab53d6b8",
   "lastOpenFiles": [
+    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5-2. 자바 더 간편하게.md",
+    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
     "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/2. 객체 설계하기.md",
+    "Python/Python 기초/모듈 f70fe2cb05f444509218472f1298d2fb/제목 없는 데이터베이스 972444efea70479ab9cb3fa8a4f0ad02/%j 8314ac3246204eb0b120008b731b914b.md",
+    "Python/Python 기초/모듈 f70fe2cb05f444509218472f1298d2fb/제목 없는 데이터베이스 972444efea70479ab9cb3fa8a4f0ad02/%f 4c51ab21ccad4ff3b3f20e267728313a.md",
+    "Python/Python 기초/모듈 f70fe2cb05f444509218472f1298d2fb/제목 없는 데이터베이스 972444efea70479ab9cb3fa8a4f0ad02/%A 69d00888573a4eecb7bcba3eca6dd7dc.md",
     "JSPServlet/쌍용/WebApp04.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트(편집중).md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/3 배열.md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/2 컴퓨터가 데이터를 저장하는 법.md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/images/2_1.png",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/2. 컴퓨터가 데이터를 저장하는 법.md",
-    "2 컴퓨터가 데이터를 저장하는 법 3e0a8bed10dc4642802f981f58bfda99/Untitled.jpeg.md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/5 해시 테이블.md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇2(재귀 함수)/1. 재귀 함수.md"
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/2 컴퓨터가 데이터를 저장하는 법.md"
   ]
 }
