@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9a2e4933e5f3d9",
+        "id": "65cbb96d4323f9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9b04466f57958f",
+            "id": "8100f078f03f329f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "d79cadddd821b054",
@@ -128,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3501c0c2356a6b5a",
+  "active": "8100f078f03f329f",
   "lastOpenFiles": [
+    "JSPServlet/쌍용/WebApp04.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/12. 객체 자신을 가리키는 this.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/11. 캡슐화(encapsulation).md",
     "Java/java_spring/p1.ch02. 객체지향 입문/2. 객체지향 입문.md",
@@ -138,7 +140,6 @@
     "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/4. 자바, 더 정확하게(수정중).md",
     "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/3. 문제해결 능력 기르기.md",
     "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
-    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5-2. 자바 더 간편하게.md",
-    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/2. 객체 설계하기.md"
+    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5-2. 자바 더 간편하게.md"
   ]
 }
