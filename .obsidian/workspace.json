@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "65cbb96d4323f9cb",
+        "id": "6aac161960f534b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8100f078f03f329f",
+            "id": "4d4c08a8a6a29e87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JSPServlet/쌍용/WebApp06(page 디렉티브 buffer 속성 및 autoFlush, include 디렉티브).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "d79cadddd821b054",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JSPServlet/쌍용/WebApp06(page 디렉티브 buffer 속성 및 autoFlush, include 디렉티브).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JSPServlet/쌍용/WebApp06(page 디렉티브 buffer 속성 및 autoFlush, include 디렉티브).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JSPServlet/쌍용/WebApp06(page 디렉티브 buffer 속성 및 autoFlush, include 디렉티브).md"
+              }
             }
           }
         ]
@@ -129,8 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8100f078f03f329f",
+  "active": "4d4c08a8a6a29e87",
   "lastOpenFiles": [
+    "JSPServlet/쌍용/WebApp05(JSP를 이용한 데이터 송수신).md",
+    "Python/Python 기초/입력.md",
     "JSPServlet/쌍용/WebApp04.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/12. 객체 자신을 가리키는 this.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/11. 캡슐화(encapsulation).md",
@@ -138,8 +147,6 @@
     "Java/java_spring/p1.ch02. 객체지향 입문/14. 버스 타고 학교 가는 학생의 과정을 객체 지향 프로그래밍으로 구현해보기.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/13. 객체 간의 협력(collabration).md",
     "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/4. 자바, 더 정확하게(수정중).md",
-    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/3. 문제해결 능력 기르기.md",
-    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
-    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5-2. 자바 더 간편하게.md"
+    "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/3. 문제해결 능력 기르기.md"
   ]
 }
