@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "558fed832fe4f92f",
+        "id": "905699550047b12f",
         "type": "tabs",
         "children": [
           {
-            "id": "8655a48168209ba8",
+            "id": "a2e362b5f611cbc8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,8 +128,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8655a48168209ba8",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a2e362b5f611cbc8",
   "lastOpenFiles": [
+    "Python/파이썬 심화/숫자타입/집합을 사용하는 이유.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/temp.md",
     "JSPServlet/쌍용/WebApp06(page 디렉티브 buffer 속성 및 autoFlush, include 디렉티브).md",
     "JSPServlet/쌍용/WebApp05(JSP를 이용한 데이터 송수신).md",
@@ -138,7 +149,6 @@
     "Java/java_spring/p1.ch02. 객체지향 입문/12. 객체 자신을 가리키는 this.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/11. 캡슐화(encapsulation).md",
     "Java/java_spring/p1.ch02. 객체지향 입문/2. 객체지향 입문.md",
-    "Java/java_spring/p1.ch02. 객체지향 입문/14. 버스 타고 학교 가는 학생의 과정을 객체 지향 프로그래밍으로 구현해보기.md",
-    "Java/java_spring/p1.ch02. 객체지향 입문/13. 객체 간의 협력(collabration).md"
+    "Java/java_spring/p1.ch02. 객체지향 입문/14. 버스 타고 학교 가는 학생의 과정을 객체 지향 프로그래밍으로 구현해보기.md"
   ]
 }
