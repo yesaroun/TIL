@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/java_spring/p1.ch02. 객체지향 입문/2. 객체지향 입문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b07720fceaccdd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Python/django/blog 만들기/5-2. 장고의 작동 구조 이해하기(MTV).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Python/django/blog 만들기/5-2. 장고의 작동 구조 이해하기(MTV).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Python/django/blog 만들기/5-2. 장고의 작동 구조 이해하기(MTV).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,16 +114,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Python/django/blog 만들기/5-2. 장고의 작동 구조 이해하기(MTV).md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "9b07720fceaccdd0",
+  "active": "66722a419f6c355a",
   "lastOpenFiles": [
     "Java/java_spring/p1.ch02. 객체지향 입문/2. 객체지향 입문.md",
+    "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
     "JSPServlet/쌍용/WebApp04.md",
     "Java/Java기초(codeit)/2. 자바 객체 지향 프로그래밍/5. 자바 더 간편하게.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/11. 캡슐화(encapsulation).md",
@@ -144,7 +132,6 @@
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/5 해시 테이블.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/3 배열.md",
     "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/3 배열(편집중).md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md",
-    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/2 컴퓨터가 데이터를 저장하는 법.md"
+    "Algorithm/CodeIt 알고리즘과 자료구조/코드잇5(기본 자료 구조들)/4 링크드 리스트.md"
   ]
 }
