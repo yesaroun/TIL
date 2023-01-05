@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "905699550047b12f",
+        "id": "d1d6a953a08b487a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e362b5f611cbc8",
+            "id": "9e51816298de46f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a2e362b5f611cbc8",
+  "active": "9e51816298de46f1",
   "lastOpenFiles": [
     "Python/파이썬 심화/숫자타입/집합을 사용하는 이유.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/temp.md",
