@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
+                "file": "OZ/Python/django정리(세팅~REST_API).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
+                "file": "OZ/Python/django정리(세팅~REST_API).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
+                "file": "OZ/Python/django정리(세팅~REST_API).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md"
+                "file": "OZ/Python/django정리(세팅~REST_API).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9e51816298de46f1",
   "lastOpenFiles": [
+    "Python/basic/파이썬 심화/숫자타입/반내림 vs 버림.md",
     "Python/파이썬 심화/숫자타입/집합을 사용하는 이유.md",
     "Algorithm/자료구조와 알고리즘을 함께 배우는 파이썬 프로그래밍/temp.md",
     "JSPServlet/쌍용/WebApp06(page 디렉티브 buffer 속성 및 autoFlush, include 디렉티브).md",
@@ -156,7 +157,6 @@
     "JSPServlet/쌍용/WebApp04.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/12. 객체 자신을 가리키는 this.md",
     "Java/java_spring/p1.ch02. 객체지향 입문/11. 캡슐화(encapsulation).md",
-    "Java/java_spring/p1.ch02. 객체지향 입문/2. 객체지향 입문.md",
-    "Java/java_spring/p1.ch02. 객체지향 입문/14. 버스 타고 학교 가는 학생의 과정을 객체 지향 프로그래밍으로 구현해보기.md"
+    "Java/java_spring/p1.ch02. 객체지향 입문/2. 객체지향 입문.md"
   ]
 }
