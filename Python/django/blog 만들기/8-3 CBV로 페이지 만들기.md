@@ -122,8 +122,50 @@ def single_post_page(request, pk):
 # CBV로 포스트 상세 페이지 만들기
 
 ## DetailView로 포스트 상세 페이지 만들기
+blog/views.py
+```python
+# from django.shortcuts import render
+from django.views.generic import ListView, DetailView
+from .models import Post
 
 
+class PostList(ListView):
+    model = Post
+    ordering = '-pk'
+
+
+class PostDetail(DetailView):
+    model = Post
+
+# def single_post_page(request, pk):        # FBV 방식
+#     post = Post.objects.get(pk=pk)
+#
+#     return render(
+#         request,
+#         'blog/single_post_page.html',
+#         {
+#             'post': post,
+#         }
+#     )
+```
+
+## urls.py 수정
+blog/urls.py
+```python
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('<int:pk>/', views.PostDetail.as_view()),      # 추가
+    path('', views.PostList.as_view),
+    # path('', views.index),
+    # path('<int:pk>/', views.single_post_page),
+]
+```
+blog/views.py에서 PostDetail 클래스를 정의하고, model = Post라고 정의만 했어도,  
+이에 맞는 post_detail.html을 찾는다.  
+현재 브라우저에서 127.0.0.1:8000/blog/1/을 입력하면 post_detail.html이 없어서 에러가 나온다.  
+single_post_page.html의 파일명을 post_detail.html로 수정하면 성공적으로 상세 페이지가 나타난다.
 
 
 
