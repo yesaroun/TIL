@@ -46,3 +46,43 @@ Serving : 고객의 요청이든, enter 키든 이런 트리거가 있으면 서
 
 ## PEP 20 - Zen to Python
 가장 중요한 것은 가독성이 중요하다. 
+
+
+# Database Modeling
+
+## DB 모델링이란?
+어떤 Item에 속성 데이터를 사전에 정의하는 것.
+
+### Django 에서는?
+- Django 에서 id는 기본 값 (Primary Key) 정의 하지 않아도 자동 정의
+- 외래키(Foreign Key)를 사용하면 뒤에 xxx_id를 자동으로 생성
+  - Job에 위치를 추가하고 싶은데 해당 위치가 다른 테이블에 있다면 location으로 정의해주면 location_id로 데이터 컬럼이 생성됨
+
+### Django DB 컬럼 타입
+* CharField (길이가 정해진 문자열)
+* IntegerField (-2147483648 ~ 2147483647)
+* PositiveIntegerField : 양수만 사용할 때
+* BigIntegerField (-9223372036854775808 ~ 9223372036854775807) 
+* PositiveBigIntegerField
+* DateField (날짜)
+* DatetimeField (날짜 + 시간)
+* BooleanField (True/False)
+* TextField (길이가 정해지지 않은 문자열)
+* EmailField (이메일 포멧)
+* JSONField (Json 포멧)
+* AutoField (Auto Increment 필드 with IntegerField)
+* BigAutoField (Auto Increment 필드 with BigIntegerField) : django의 기본적인 pk id 타입이다.
+* ForeignKey (다른 테이블 PK 참조 필드)
+예제) shortener/models.py
+```python
+from django.db import models
+
+
+class PayPlan(models.Model):
+    name = models.CharField(max_length=20)
+    price = models.IntegerField()
+    updated_at = models.DateTimeField(auto_now=True)
+    # auto_now=True : 매번 업데이트 될때 현재 시간을 넣어준다.
+    create_at = models.DateTimeField(auto_now_add=True)
+    # auto_now_add=True : 이 컬럼이 처음에 생성될 때 현재 시간을 넣어 준다.
+```
