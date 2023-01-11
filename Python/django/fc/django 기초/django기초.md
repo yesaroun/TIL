@@ -86,3 +86,44 @@ class PayPlan(models.Model):
     create_at = models.DateTimeField(auto_now_add=True)
     # auto_now_add=True : 이 컬럼이 처음에 생성될 때 현재 시간을 넣어 준다.
 ```
+
+![img.png](img/git_pj.png)
+이렇게 매 프로젝트 진행함
+
+## UserData 추가
+```python
+from django.db import models
+
+from django.contrib.auth.models import AbstractUser
+from django.contrib.auth.models import User
+
+
+class PayPlan(models.Model):
+    name = models.CharField(max_length=20)
+    price = models.IntegerField()
+    updated_at = models.DateTimeField(auto_now=True)
+    create_at = models.DateTimeField(auto_now_add=True)
+
+
+# 1
+class Users(AbstractUser):
+    pay_plan = models.ForeignKey(PayPlan, on_delete=models.DO_NOTHING)
+# AbstractUser : 현재 가지고 있는 user를 추상화해서 거기에 pay_plan을 넣겠다는 것이다. 이 방법도 있고, 
+
+
+# 2
+class UserDetail(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    pay_plan = models.ForeignKey(PayPlan, on_delete=models.DO_NOTHING)
+# 이 방법처럼 UserDetail 메소드를 만들어서 onetoonefield로 유저가 가지고 있는 추가 정보를 넣어주는 방법도 있다.
+```
+# 1번 방법은 한 테이블에 쌓이고, 2번 방법은 두 테이블에 쌓인다. 어떤게 더 좋은지는 프로젝트 마다 다르다. 만약 처음에 abstractuser를 만들었다면 1번 그대로 해고, 
+# abstractuser를 안만들고 django 기본 모델을 사용하다가 나중에 user 추가 데이터를 넣고 싶으면 2번 방법을 사용하면 된다.
+
+# 단, 1번 방법을 하면 settings.py에 INSTALLED_APPS 위에 AUTH_USER_MODEL = "shortener.Users"적는다 -> shortener의 user테이블을 사용한다고 명시해 줘야 한다. 
+# user테이블을 상속받으면서 user 테이블이 쓸모가 없어지기 때문에 인증을 위해서 어떤 테이블을 사용할 것인지, 어떤 DB를 쓸건지 정리해줘야 한다. 
+
+# 2번은 django가 가지고 있는 User 모델을 import 했고, 이 User와 user모델을 onetoone필드로 1대1 매핑이 되도록 한다는 뜻이다.
+# 그래서 user 데이터를 추가로 저장할 수 있다. 그래서 pay_plan을 추가로 저장하겠다는 것이다. 그리고 1,2번 둘다 활성화 해도 된다.
+
+
